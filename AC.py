@@ -5,7 +5,8 @@
 """
 
 import sys
-from PyQt4 import QtGui, QtCore
+print(sys.version)
+from PyQt5 import QtGui, QtCore
 import numpy as np
 import sys
 #sys.path.insert(0, u'/…/…/…/python2.7/site-packages')
